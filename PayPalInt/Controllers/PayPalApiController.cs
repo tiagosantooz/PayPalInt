@@ -9,8 +9,8 @@ namespace PayPalInt.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class BalanceController : ControllerBase
+    public class PayPalApiController : ControllerBase
     {
-
+        
     }
 }
